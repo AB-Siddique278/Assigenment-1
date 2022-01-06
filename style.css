@@ -1,0 +1,194 @@
+body{
+    
+    margin: 0;
+}
+    
+h1{
+    font-size: 60px;
+    font-family: Bebas Neue;
+}
+.title{
+    border-left: 5px solid orangered ;
+    border-radius: 5px;
+    padding-left: 5px;
+    
+    
+}
+
+.scroll{
+    margin-top: 99px;
+    
+}
+p, h4, h2, h3{
+    font-family: poppins;
+}
+.flex-content{
+display: flex;
+}
+
+.name{
+color: orangered;
+font-family:Bebas Neue;
+}
+
+.half-width{
+width: 50%;
+padding-left: 5%;
+
+}
+
+.half-width img{
+width: 75%;
+padding: 7%;
+}
+.link{
+text-decoration: none;
+background: linear-gradient(45deg, lightsalmon, tomato);
+color: white;
+padding: 10px 40px;
+border-radius: 5px;
+
+}
+.well-section{
+background-image: url("images/shapes/top-banner.png");
+background-repeat: no-repeat;
+}
+
+/*mission section */
+
+.miss-title{
+    text-align: center;
+}
+
+.box-title{
+    font-size:20px;
+}
+.miss-box-text{
+    text-align: justify;
+}
+.mission{
+    margin-top: 5%;
+    height: 40em;
+    margin-bottom: 10%;
+}
+
+.mission-box{
+    width: 25%;
+    padding: 10px;;
+    box-shadow: rgb(128, 128, 128, 0.42) 5px 5px 20px;
+    float:left;
+    margin: 29px;
+    border-radius: 10px;
+    
+}
+.content{
+    margin: 3% 0%;
+    margin-left: 10%;
+    
+    
+}
+.mission-img img{
+    width: 70%;
+}
+
+#box-1{
+    background-color:aqua;
+}
+
+#box-2{
+    background-color:aquamarine;
+}
+
+#box-3{
+    background-color:antiquewhite;
+}
+
+/* Know our team section*/
+
+.team-area{
+    background-image: url("images/shapes/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    margin-left: 4%;
+    padding-right: 10%;
+    margin-bottom: 5%;
+   
+}
+.Develop-title{
+    font-size: 50px;
+}
+
+/*Business section */
+
+.business-area{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    margin-left: 4%;
+    padding-right: 10%;
+    background-size:25%;
+    margin-bottom: 5%;
+    
+}
+
+/*Skill section */
+
+.skill-area{
+    
+    margin-left: 4%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+    background-image: url(images/shapes/dots-3.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 36%;
+    
+    
+    
+}
+
+.skill-content{
+    width: 100%;
+    background-color: gainsboro;
+}
+.skill{
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+
+}
+.html{
+    width: 90%;
+    background-color: aquamarine;
+}
+.css{
+    width: 85%;
+    background-color: palegreen;
+}
+.javascript{
+    width: 80%;
+    background-color: tomato;
+}
+.nodejs{
+    width: 75%;
+    background-color: sandybrown;
+}
+#my-skill{
+    padding-left:10%;
+}
+.skill-font{
+    font-weight: bold;
+}
+
+/*footer*/
+
+.footer{
+    
+    
+    padding: 5px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    
+}
